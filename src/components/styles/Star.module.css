@@ -1,0 +1,15 @@
+.star {
+  position: relative;
+}
+
+.half {
+  background: transparent;
+  position: absolute;
+  width: 20px;
+  height: 40px;
+  /* visibility: hidden; */
+}
+
+.half:hover {
+  background: transparent;
+}
